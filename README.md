@@ -32,9 +32,26 @@ The dashboard provides insights into airport performance, flight traffic distrib
 ## Dashboard Preview
 
 ### Dashboard 1
-
 ![Dashboard 1](<Screenshots/Dashboard 1.png>)
 
 ### Dashboard 2
-
 ![Dashboard 2](<Screenshots/Dashboard 2.png>)
+
+
+## Key Insights
+
+- Amsterdam Schiphol and Paris Charles de Gaulle consistently ranked among the busiest airports.
+- Summer exhibited the highest IFR traffic volumes across the observed period.
+- Friday showed the highest average flight traffic among weekdays.
+- Flight movement trends demonstrated significant year-to-year variation across major European hubs.
+
+
+## Skills Demonstrated
+
+- Tableau
+- Data Visualization
+- Geospatial Analysis
+- KPI Reporting
+- Time Series Analysis
+- Trend Analysis
+- Business Analytics
