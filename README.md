@@ -27,3 +27,14 @@ The dashboard provides insights into airport performance, flight traffic distrib
 - Tableau workbook
 - Dashboard screenshots
 - Project presentation
+
+
+## Dashboard Preview
+
+### Dashboard 1
+
+![Dashboard 1](<Screenshots/Dashboard 1.png>)
+
+### Dashboard 2
+
+![Dashboard 2](<Screenshots/Dashboard 2.png>)
